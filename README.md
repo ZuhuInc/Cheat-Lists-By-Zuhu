@@ -5,7 +5,8 @@ External:
 -Xone		        https://xone.fun/en/products/8-cs2-x1-external                                                                                                                              
 -Cartel		        https://cartelcheats.com/register/                                                                                                                              
 -Impresa	        https://impresa.pub/register                                                                                                                              
--Vision.Cloud	        https://dashboard.visioncloud.cc/register                                                                                                                              
+-Vision.Cloud	        https://dashboard.visioncloud.cc/register    
+-Distort        https://distort.wtf/cs2                                                                                                                          
 -Lunar		        https://lunar.im/account/upgrades                                                                                                                              
 -Baimless	        https://baimless.com/forums/store/category/16-baimless-cs2/                                                                                                                              
 -Ethernal	        https://eternal-cheats.com/store/                                                                                                                              
