@@ -6,9 +6,9 @@ External:
 -Cartel		        https://cartelcheats.com/register/                                                                                                                              
 -Impresa	        https://impresa.pub/register                                                                                                                              
 -Vision.Cloud	        https://dashboard.visioncloud.cc/register    
--Distort        https://distort.wtf/cs2                                                                                                                          
+-Distort        https://distort.wtf/cs2                                                                                                                                                                                     
 -Lunar		        https://lunar.im/account/upgrades                                                                                                                              
--Baimless	        https://baimless.com/forums/store/category/16-baimless-cs2/                                                                                                                              
+-Baimless	        https://baimless.com/forums/store/category/16-baimless-cs2/      (writes memory)                                                                                                                        
 -Ethernal	        https://eternal-cheats.com/store/                                                                                                                              
 -Lethality	        https://lethality.io/shop/                                                                                                                              
 -Constelia	        https://constelia.ai/forums/index.php?threads/application-template-read-this-before-posting.969/                                                                                                                              
