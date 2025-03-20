@@ -6,7 +6,7 @@ External:
 -Cartel		https://cartelcheats.com/register/
 -Impresa	https://impresa.pub/register
 -Vision.Cloud	https://dashboard.visioncloud.cc/register
--Distort      https://distort.wtf/cs2
+-Distort        https://distort.wtf/cs2
 -Lunar		https://lunar.im/account/upgrades
 -Baimless	https://baimless.com/forums/store/category/16-baimless-cs2/ (writes memory)
 -Ethernal	https://eternal-cheats.com/store/
