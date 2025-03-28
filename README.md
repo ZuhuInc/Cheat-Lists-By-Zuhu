@@ -1,5 +1,4 @@
-External:                                                                                                                              
--Phantom Over           https://www.phantomoverlay.io/                                                                                                  
+External:                                                                                                                                                                                                                               
 -Melatonin	        https://melatonin.win/index.php                                                                                                                              
 -Oxide		        https://oxide.wtf/                                                                                                                              
 -Xone		        https://xone.fun/en/products/8-cs2-x1-external                                                                                                                              
