@@ -13,4 +13,4 @@ External:
 -Constelia          https://constelia.ai/forums/index.php?threads/application-template-read-this-before-posting.969/
 
 External AI:
--Aptitude	          https://aptitude.pub/store/category/27-counter-strike-2/
+-Aptitude	      https://aptitude.pub/store/category/27-counter-strike-2/
