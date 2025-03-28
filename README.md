@@ -14,7 +14,7 @@ External:
                                                                                                                                                                                                                                                             
 Internal:                                                                                                                              
 -Iniuria	        https://www.iniuria.us/forum/payments.php                                                                                                                              
--Memesense        https://memesense.gg/
+-Memesense        https://memesense.gg/                                                                                                                                                                                     
 -Midnight	        https://midnight.im/store/chity-cs-2/                                                                                                                              
 -Intelligent	    https://intelligent-aiming.xyz/products/cs2                                                                                                                              
 -Primordial	      https://community.primordial.dev/account/upgrades                                                                                                                              
