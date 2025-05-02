@@ -9,13 +9,13 @@
 | Melatonin     | [https://melatonin.win/](https://melatonin.win/)                       |               |
 | Angelhack     | [https://angelhack.lol/](https://angelhack.lol/)                       |               |
 | Itami         | [https://itami.fun/](https://itami.fun/)                               |               |
-| Vision.Cloud  | [https://www.visioncloud.cc/](https://dashboard.visioncloud.cc/) |               |
-| Xone          | [https://xone.fun/](https://xone.fun/en/products/8-cs2-x1-external) |               |
+| Vision.Cloud  | [https://www.visioncloud.cc/](https://dashboard.visioncloud.cc/)       |               |
+| Xone          | [https://xone.fun/](https://xone.fun/en/products/8-cs2-x1-external)    |               |
 | Hypnotic      | [https://hypnotic.gg/](https://hypnotic.gg/)                           |               |
 | Lunar         | [https://lunar.im/](https://lunar.im/)                                 |               |
 | Cartel        | [https://cartelcheats.com/](https://cartelcheats.com/)                 |               |
-| Distort       | [https://distort.wtf/](https://distort.wtf/cs2)                     |               |
-| Ethernal      | [https://eternal-cheats.com/](https://eternal-cheats.com/store/) |               |
+| Distort       | [https://distort.wtf/](https://distort.wtf/cs2)                        |               |
+| Ethernal      | [https://eternal-cheats.com/](https://eternal-cheats.com/store/)       |               |
 | Aimsync       | [https://aimsync.ai/](https://aimsync.ai/)                             |               |
 | Pellix        | [https://pellix.xyz/](https://pellix.xyz/)                             |               |
 | Baimless      | [https://baimless.com/](https://baimless.com/forums/store/category/16-baimless-cs2/) | writes memory |
@@ -29,7 +29,7 @@
 | Iniuria    | [https://www.iniuria.us/](https://www.iniuria.us/)             |
 | Illusionary| [https://illusionary.club/](https://illusionary.club/)         |
 | Memesense  | [https://memesense.gg/](https://memesense.gg/)                 |
-| Midnight   | [https://midnight.im/](https://midnight.im/store/chity-cs-2/) |
+| Midnight   | [https://midnight.im/](https://midnight.im/store/chity-cs-2/)  |
 | Intelligent| [https://intelligent-aiming.xyz/](https://intelligent-aiming.xyz/products/cs2) |
 | Primordial | [https://primordial.dev/](https://primordial.dev/)             |
 | Plague     | [https://plaguecheat.cc/](https://plaguecheat.cc/)             |
@@ -40,6 +40,8 @@
 | Neverlose  | [https://neverlose.cc/](https://neverlose.cc/)                 |
 | Rifk-7     | [https://rifk7.com/](https://rifk7.com/)                       |
 | Compkiller | [https://www.compkiller.net/](https://www.compkiller.net/)     |
+| Legendware | [https://legendware.pw/](https://legendware.pw/#buy)           |
+| Nixware    | [https://nixware.cc/](https://nixware.cc/purchase-cheats/)     |
 
 ## External AI
 
