@@ -1,16 +1,23 @@
-External:
--Melatonin          https://melatonin.win/index.php
--Oxide              https://oxide.wtf/
--Xone               https://xone.fun/en/products/8-cs2-x1-external
--Cartel             https://cartelcheats.com/register/
--Impresa            https://impresa.pub/register
--Vision.Cloud       https://dashboard.visioncloud.cc/register
--Distort            https://distort.wtf/cs2
--Lunar              https://lunar.im/account/upgrades
--Baimless           https://baimless.com/forums/store/category/16-baimless-cs2/ (writes memory)
--Ethernal           https://eternal-cheats.com/store/
--Lethality          https://lethality.io/shop/
--Constelia          https://constelia.ai/forums/index.php?threads/application-template-read-this-before-posting.969/
+External:                                                                                                                                                                                                                               
+-Oxide               https://oxide.wtf/                                                                                                                                                            
+-Delusion            https://www.delusion.ing/                                                                                                                                                           
+-Impresa             https://impresa.pub/                                                                                                                                                                   
+-Umbra               https://umbra.top/                                                                                                                                                               
+-Melatonin           https://melatonin.win/                                                                                                                                                           
+-Angelhack           https://angelhack.lol/                                                                                                                                                           
+-Itami               https://itami.fun/                                                                                                                                                             
+-Vision.Cloud        https://dashboard.visioncloud.cc/                                                                                                                                                
+-Xone                https://xone.fun/en/products/8-cs2-x1-external                                                                                                                                    
+-Hypnotic            https://hypnotic.gg/                                                                                                                        
+-Lunar               https://lunar.im/                                                                                                                        
+-Cartel              https://cartelcheats.com/                                                                                                                              
+-Distort             https://distort.wtf/cs2                                                                                                                                                                                     
+-Ethernal            https://eternal-cheats.com/store/                                                                                                                              
+-AimSync             https://aimsync.ai/
+-Pellix              https://pellix.xyz/                                                                                                                                                                                                                                                
+-Baimless            https://baimless.com/forums/store/category/16-baimless-cs2/      (writes memory)                                                                                                                        
+-Lethality           https://lethality.io/                                                                                                                                                                                                                                                      
+-Constelia           https://constelia.ai/            
 
-External AI:
--Aptitude	    https://aptitude.pub/store/category/27-counter-strike-2/
+External AI:                                                                                                                              
+-Aptitude            https://aptitude.pub/store/category/27-counter-strike-2/  
