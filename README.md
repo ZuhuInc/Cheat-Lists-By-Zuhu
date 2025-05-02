@@ -13,7 +13,7 @@ External:
 -Cartel.........: https://cartelcheats.com/                                                                                                                              
 -Distort........: https://distort.wtf/cs2                                                                                                                                                                                     
 -Ethernal.......: https://eternal-cheats.com/store/                                                                                                                              
--Aimsync........: https://aimsync.ai/
+-Aimsync........: https://aimsync.ai/                                                                                                                              
 -Pellix.........: https://pellix.xyz/                                                                                                                                                                                                                                                
 -Baimless.......: https://baimless.com/forums/store/category/16-baimless-cs2/      (writes memory)                                                                                                                        
 -Lethality......: https://lethality.io/                                                                                                                                                                                                                                                      
