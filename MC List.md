@@ -32,5 +32,5 @@
 
 ## All Lists
 
-<a href="https://github.com/ZuhuInc/Cs2-Cheat-List/blob/main/CS2%20List.md" style="border: 0; display: inline-block; margin-top: 5px; margin-bottom: 5px;"> <img src="https://i.imgur.com/IdCqwSb.png" alt="CS2 Cheat List" height="25" style="vertical-align: middle;"></a>                                                   
-<a href="https://github.com/ZuhuInc/Cs2-Cheat-List/blob/main/MC%20List.md" style="border: 0; display: inline-block; margin-top: 5px; margin-bottom: 5px;"> <img src="https://i.imgur.com/Cx7vwk1.png" alt="CS2 Cheat List" height="25" style="vertical-align: middle;"></a>                                                         
+<a href="https://github.com/ZuhuInc/Cheat-Lists-By-Zuhu/blob/main/CS2%20List.md" style="border: 0; display: inline-block; margin-top: 5px; margin-bottom: 5px;"> <img src="https://i.imgur.com/IdCqwSb.png" alt="CS2 Cheat List" height="25" style="vertical-align: middle;"></a>                                          
+<a href="https://github.com/ZuhuInc/Cheat-Lists-By-Zuhu/blob/main/MC%20List.md" style="border: 0; display: inline-block; margin-top: 5px; margin-bottom: 5px;"> <img src="https://i.imgur.com/Cx7vwk1.png" alt="CS2 Cheat List" height="25" style="vertical-align: middle;"></a>                                           
