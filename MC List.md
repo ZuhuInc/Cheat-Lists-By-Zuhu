@@ -21,7 +21,7 @@
 | <img src="https://i.imgur.com/BtKNcOc.png" alt="Ghost Icon" width="16" height="16" style="vertical-align: middle;"> Vape Ghost      | [https://www.vape.gg/](https://www.vape.gg/price-lite)                   | $9.99  | No LT |
 | <img src="https://i.imgur.com/OAXC0h5.png" alt="Ghost Icon" width="16" height="16" style="vertical-align: middle;"> Dream Client    | [https://dreamclient.xyz/](https://dreamclient.xyz/dashboard/purchase)   | $30.00 |       |
 
-## Utilty/PvP
+## Utility/PvP
 
 | Name                                                                                                                                | Link                                                                     | Price  | Notes |
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------|-------|
