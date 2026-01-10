@@ -24,7 +24,7 @@
 | <img src="https://i.imgur.com/3BZNS4e.png" alt="External Icon" width="16" height="16" style="vertical-align: middle;"> Distort       | [https://distort.wtf/](https://distort.wtf/cs2)                        | Public       | $15.00 |               |
 | <img src="https://i.imgur.com/uDBQ9xP.png" alt="External Icon" width="16" height="16" style="vertical-align: middle;"> Baimless      | [https://baimless.com/](https://baimless.com/forums/store/)            | Public       | €12.99 | Writes Memory |
 | <img src="https://i.imgur.com/c6oBnXD.png" alt="External Icon" width="16" height="16" style="vertical-align: middle;"> Constelia     | [https://constelia.ai/](https://constelia.ai/)                         | Apply Only   | $200   | ONLY LUA & LT |
-| <img src="https://i.imgur.com/JRrVrJz.png" alt="External Icon" width="16" height="16" style="vertical-align: middle;"> Snaptics      | [https://snaptics.space/](https://snaptics.space/forum/index.php)      | Invite/Apply | $6.00  |               |
+
 
 
 ## Internal
